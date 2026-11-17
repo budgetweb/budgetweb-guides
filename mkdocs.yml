@@ -1,0 +1,5 @@
+site_name: BudgetWeb Guides
+site_description: Practical guides on branding, websites and software for small businesses in the UAE.
+docs_dir: docs
+nav:
+  - "How to Brief a Logo Designer": index.md
